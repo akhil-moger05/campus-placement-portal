@@ -6,6 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+<<<<<<< HEAD
 target/
 .idea/
 .vscode/
+=======
+>>>>>>> aece70850d4527a0de0b20fbd6d51cdd698552d6
