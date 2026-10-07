@@ -12,17 +12,29 @@ Students apply to drives and track their stage. Admin manages companies, drives 
 
 **Live demo:** _add your link here_
 ---
-
 ## 📸 Screenshots
 
-| Student Dashboard | Admin Dashboard |
-|---|---|
-| _add screenshot_ | _add screenshot_ |
+### Student
 
-| Drive Tracker | Drive List |
-|---|---|
-| _add screenshot_ | _add screenshot_ |
+**Placement Drives**
+![Student Drives](docs/screenshots/student-drives.png)
 
+**Live Drive Tracker**
+![Student Tracker](docs/screenshots/student-tracker.png)
+
+**My Profile**
+![Student Profile](docs/screenshots/student-profile.png)
+
+### Admin
+
+**Dashboard**
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
+**Manage Drives**
+![Admin Drives](docs/screenshots/admin-drives.png)
+
+**Applicants & Stage Mover**
+![Admin Applicants](docs/screenshots/admin-applicants.png)
 ---
 
 ## ✨ Features
