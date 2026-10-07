@@ -1,0 +1,7 @@
+{
+  "name": "Campus Placement Portal & Drive Tracker",
+  "description": "Full-stack Campus Placement Portal & Drive Tracker with role-based access for Admins, Students, and Companies, stage tracking (Applied to Selected), eligibility checks, and complete Spring Boot & MySQL project source.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
