@@ -35,7 +35,7 @@ class ApiService {
     if (!localStorage.getItem(STORAGE_KEYS.NOTIFICATIONS)) {
       localStorage.setItem(STORAGE_KEYS.NOTIFICATIONS, JSON.stringify(INITIAL_NOTIFICATIONS));
     }
-    if (!localStorage.getItem(STORAGE_KEYS.CURRENT_USER)) {
+        if (!localStorage.getItem(STORAGE_KEYS.CURRENT_USER)) {
       // Default to Student Priya Sharma for instant review, or Admin
       localStorage.setItem(STORAGE_KEYS.CURRENT_USER, JSON.stringify(INITIAL_USERS[1]));
     }
