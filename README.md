@@ -10,7 +10,7 @@ Students apply to drives and track their stage. Admin manages companies, drives 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-planned-6DB33F?logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-planned-4479A1?logo=mysql&logoColor=white)
 
-**Live demo:** _add your link here_
+**Live demo:** https://campus-placement-portal-teal-seven.vercel.app/
 ---
 ## 📸 Screenshots
 
