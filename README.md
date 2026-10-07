@@ -11,7 +11,6 @@ Students apply to drives and track their stage. Admin manages companies, drives 
 ![MySQL](https://img.shields.io/badge/MySQL-planned-4479A1?logo=mysql&logoColor=white)
 
 **Live demo:** _add your link here_
-
 ---
 
 ## 📸 Screenshots
